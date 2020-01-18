@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVC:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVC_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVC" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.8" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SpringMVC/web/Web" />
+      <element id="artifact" artifact-name="SpringMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
